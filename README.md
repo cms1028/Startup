@@ -17,3 +17,9 @@ I plan to use the technologies in the following ways:
 - DB/Login: Store users, choices, and player progress. Register and login users. Credentials securely stored in database.
 - WebSocket: Updating leaderboard with current top players' cash.
 
+
+![Sketch](https://github.com/user-attachments/assets/1c754aa0-6685-453b-a7b4-10f18b6dcfcd)
+
+![Sketch](https://github.com/user-attachments/assets/f2beaadb-f67c-4a47-839e-ea8fb2d26ce7)
+
+![Choose Sides](https://github.com/user-attachments/assets/0ffdb594-408a-4b1b-a209-4dc0a31d3d5f)
