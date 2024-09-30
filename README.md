@@ -23,3 +23,6 @@ I plan to use the technologies in the following ways:
 ![Sketch](https://github.com/user-attachments/assets/f2beaadb-f67c-4a47-839e-ea8fb2d26ce7)
 
 ![Choose Sides](https://github.com/user-attachments/assets/0ffdb594-408a-4b1b-a209-4dc0a31d3d5f)
+
+## HTML
+My HTML is the structure for my webpage. I added the index.html or home page with a login and brief description of the game that I've made. Next, I made a leaderboard tab that is currently just text, but it will hopefully update with players' scores. After that, I made the Play Now page which would have my actual game. It has buttons for possible moves you could make. The final menu item/page I made was the chat page. The chat page would hopefully be a live chat where players can talk in real-time. It's al o just text right now with a submit box, but it will eventually work.
